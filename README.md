@@ -1,1 +1,3 @@
 # ListaEncadeadaDinamica
+
+- Autoral
